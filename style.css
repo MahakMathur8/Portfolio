@@ -1,0 +1,43 @@
+*
+{
+  background-color:black;
+}
+.main
+{
+  background-image: url('bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.first
+{
+  text-align: center;
+  text-align: center;
+  font-size: 50px;
+  color:teal;
+}
+a
+{
+  color: firebrick;
+}
+h1 {
+  font-family: "Times New Roman";
+  color: teal;
+  font-size: 50px;
+} 
+
+.one
+{
+  font-size: 20px;
+  color: teal;
+}
+li{
+  color: white;
+  font-size:25px;
+  word-spacing: 10px;
+}
+
+h5{
+  color:firebrick;
+  font-size: 30px;
+}
